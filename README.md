@@ -27,6 +27,7 @@ The display shows real-time data: speed, direction, angle, distance.
 ## 📸 Wiring
 
 ![Line Tracking Car](images/line.png)
+![Line Tracking Car](images/obstacle.png)
 
 
 ## 📂 How to Use
