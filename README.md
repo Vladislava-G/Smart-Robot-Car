@@ -26,8 +26,13 @@ The display shows real-time data: speed, direction, angle, distance.
 
 ## 📸 Wiring
 
-![Line Tracking Car](images/line.png)
-![Line Tracking Car](images/obstacle.png)
+## 📸 Галерея режимів:
+
+- [Line Tracking](images/line.png)
+- [IR Remote Control](images/ir_remote.png)
+- [Obstacle Avoidance](images/obstacle.png)
+- [Bluetooth Control](images/bluetooth.png)
+
 
 
 ## 📂 How to Use
