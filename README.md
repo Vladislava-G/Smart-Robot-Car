@@ -26,7 +26,7 @@ The display shows real-time data: speed, direction, angle, distance.
 
 ## 📸 Wiring
 
-![Wiring Diagram](images/car_front.jpg)
+![Wiring Diagram](images.jpg)
 
 ## 📂 How to Use
 1. Upload code via Arduino IDE
